@@ -1,0 +1,8 @@
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/simulation/CMakeFiles/simulation.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/simulation/CMakeFiles/edit_cache.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/simulation/CMakeFiles/rebuild_cache.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/theoretical_calc/CMakeFiles/calc_it.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/theoretical_calc/CMakeFiles/edit_cache.dir
+C:/Users/Arek/Desktop/GameSimulation/cmake-build-debug/theoretical_calc/CMakeFiles/rebuild_cache.dir
